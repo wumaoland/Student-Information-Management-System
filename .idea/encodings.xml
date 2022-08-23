@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/function_module/add_module.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/function_module/delete_module.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/function_module/login_module.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/function_module/main_menu.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/function_module/query_module.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/function_module/registered_module.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/function_module/secondary_menu.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/function_module/statistic_module.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/heads/for_function_module.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/heads/for_main.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/heads/login_module.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/heads/main_menu.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/heads/query_module.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/heads/registered_module.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/heads/users.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stu_info/stu_info.txt" charset="GBK" />
+  </component>
+</project>
